@@ -1,0 +1,34 @@
+{
+    "categories": [
+      {
+        "name": "Fashion",
+        "subcategories": [
+          {
+            "name": "Men",
+            "subcategories": [
+              { "name": "Ethnic Wear" },
+              { "name": "Casual Wear" },
+              { "name": "Formal Wear" }
+            ]
+          },
+          {
+            "name": "Women",
+            "subcategories": [
+              { "name": "Ethnic Wear" },
+              { "name": "Western Wear" },
+              { "name": "Lingerie" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "subcategories": [
+          { "name": "Mobiles" },
+          { "name": "Laptops" },
+          { "name": "Cameras" }
+        ]
+      }
+    ]
+  }
+  
